@@ -2,6 +2,9 @@
 
 program that sets your desktop background to the latest nun!
 
-Put this in your startup directory to run everytime you start your computer
+To download get the zip file here:
+https://www.dropbox.com/s/72k8n9n97k0yhxy/nunscrape.zip?dl=1
+and then unzip somewhere where you wont delete it
 
-make sure to also include the praw.ini in the same folder!
+Then, create a shortcut and drag and drop that into your startup folder:
+(Win+R and type shell:startup)
