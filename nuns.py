@@ -8,9 +8,9 @@ from io import BytesIO
 image_path = "C:\\Users\\"+os.getlogin()+"\\Pictures\\nuns"
 
 reddit = praw.Reddit(
-    client_id="NV_EoxLhN9vNuuWvOOo9xA",
-    client_secret="LhJ3tG7n_nDNLdLr0efPtvPvGW4lRw",
-    user_agent="nunscrape",
+    client_id="",
+    client_secret="",
+    user_agent="",
 )
 user = reddit.redditor('LittleNunsBot')
 submission = user.submissions.new(limit=1)
